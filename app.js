@@ -26,7 +26,7 @@ if (firebase.apps.length === 0) {
 
 
 
-export default class ImagePickerExample extends React.Component {
+export default class omarApp extends React.Component {
 
   //FileSystem.documentDirectory + 'SQLite/My.db'
 
